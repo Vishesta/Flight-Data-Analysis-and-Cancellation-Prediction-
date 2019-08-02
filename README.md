@@ -1,0 +1,2 @@
+# Flight-Data-Analysis-and-Cancellation-Prediction-
+Using Python as the programming language:- Analysed the dataset available on the Kaggle website and implemented methods like Data Exploration, Data visualization and Data cleaning. Built a model and trained it with various Machine Learning Algorithms to predict whether a flight was cancelled due to a particular delay or not. The highest accuracy achieved by the model was 96 %.
